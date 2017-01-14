@@ -3,13 +3,9 @@ This program was developed by a team of 10 engineering students, of whom I was o
 
 This project is something of a mess at the moment in terms of function names, but it does work - to use it download the files and run GUIfinal.m. Note that simply opening the GUIFinal figure from the Matlab explorer won't work, presumably because the program depends on some Java that doesn't run when the fig file is opened.
 
-To provide an idea of what the program does, here are a few screenshots.
+To provide an idea of what the program does, here are a few screenshots of a near-final version. Hopefully I'll update these soon!
+
+
 ![Alt text](final_app1.jpg?raw=true "Early version of final application")
 
 ![Alt text](final_app2.jpg?raw=true "")
-
-![Alt text](final_app3.jpg?raw=true "")
-
-![Alt text](toys1.jpg?raw=true "")
-
-![Alt text](toys2.jpg?raw=true "")
